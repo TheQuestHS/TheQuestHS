@@ -10,7 +10,7 @@ Check out my portfolio website : https://himeshsharma.in/
 - Frameworks: React, Node.js
 - Databases Management and Model: MySQL, MongoDB, Firebase, Machine Learning
 - Tools: Git, VS Code
-- Others: Linux, Windos
+- Others: Linux, Windows
 
 ## How to reach me
 
