@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**TheQuestHS/thequesths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Himesh Sharma, a software developer based in India. I'm a full-time coffee addict. 
 
-Here are some ideas to get you started:
+Check out my portfolio website : https://himeshsharma.in/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My skills and tools
+
+- Languages: Java, Python, C/C++, HTML/CSS
+- Frameworks: React, Node.js
+- Databases Management and Model: MySQL, MongoDB, Firebase, Machine Learning
+- Tools: Git, VS Code
+- Others: Linux, Windos
+
+## How to reach me
+
+- Email:  sharmahimesh.com
+- LinkedIn: https://www.linkedin.com/in/himesh-sharma-1777002a/
